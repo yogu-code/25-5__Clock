@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base : "/25-5__Clock/"
+  base : "/25-5__Clock"
 })
